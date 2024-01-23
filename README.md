@@ -1,49 +1,41 @@
 
 
-# Employee Management System
+# Sistema de gerenciamento de funcionários
 
-This is a simple Java project that demonstrates a basic employee management system in a company. The project uses Object Oriented Programming (OOP) to organize the code in a modular and efficient way.
+Este é um projeto Java simples que demonstra um sistema básico de gerenciamento de funcionários em uma empresa.O projeto usa a programação orientada a objetos para organizar o código de maneira modular e eficiente.
 
-## Project Content
+## Conteúdo do projeto
 
-The project is made up of three main classes:
+
 
 1. **Employee:**
-   - Represents an employee of the company.
-   - Attributes: name, age and salary.
-   - Access methods to obtain employee information.
+   - Representa um funcionário da empresa.
+   - Atributos: Nome, idade e salário.
+   - Métodos de acesso para obter informações sobre funcionários.
 
 2. **Company:**
-   - Represents the company and maintains a list of employees.
-   - Methods for adding employees to the list and calculating average salaries.
+   - Representa a empresa e mantém uma lista de funcionários.
+   - Métodos para adicionar funcionários à lista e calcular os salários médios.
 
 3. **Main:**
-   - Main class to test the project.
-   - Creates instances of employees, a company, adds employees to the company and displays average salaries.
+   - Classe principal para testar o projeto.
+   - Cria instâncias de funcionários, uma empresa, adiciona funcionários à empresa e exibe salários médios.
 
-## How to Execute the Project
+## Como executar o projeto
 
-To run the project, follow the following steps:
+Para executar o projeto, siga as seguintes etapas:
 
-1. Make sure you have the Java development environment configured.
-2. Clone the repository to your local machine.
-3. Open source code in a Java development environment such as Eclipse or IntelliJ IDEA.
-4. Run the `Main` class to test the project.
+1. Certifique-se de ter o ambiente de desenvolvimento Java configurado.
+2. Clone o repositório da sua máquina local.
+3. Abrir código em um ambiente de desenvolvimento Java como Eclipse ou IntelliJ IDEA.
+4. Execute a classe `Main` para testar o projeto.
 
-## Project Expansion
+## Expansão do projeto
 
-This project is a basic example and can be expanded in several ways depending on specific requirements. Some expansion suggestions include:
+Este projeto é um exemplo básico e pode ser expandido de várias maneiras, dependendo de requisitos específicos.Algumas sugestões de expansão incluem:
 
-- Add more attributes to the `Employee` class, such as position or department.
-- Implement additional methods in the `Company` class, such as finding the employee with the highest salary.
-- Create graphical or command line interfaces to interact with the system.
+- Adicione mais atributos a classe `Employee`, como posição ou departamento.
+- Implementar métodos adicionais na classe `Company`, como encontrar o funcionário com o salário mais alto.
+- Crie interfaces gráficas ou de linha de comando para interagir com o sistema.
 
-Feel free to explore and expand the project according to your needs and interests.
-
-## Contributions
-
-Contributions are welcome! If you encounter problems or have improvements to suggest, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Sinta -se à vontade para explorar e expandir o projeto de acordo com suas necessidades e interesses.
